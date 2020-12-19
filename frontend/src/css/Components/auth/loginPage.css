@@ -1,0 +1,277 @@
+@import "https://fonts.googleapis.com/css2?family=Texturina&display=swap";
+
+.login-container {
+  background-image: url(..//..//../images/login-bg.jpg);
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  font-family: Quicksand;
+  line-height: 15px;
+  background-size: cover;
+}
+.login-box {
+  width: 100%;
+  margin: auto;
+  max-width: 525px;
+  min-height: 730px;
+  position: relative;
+  background-repeat: no-repeat;
+  /*background: url(..//..//../images/login-rectangle.png) no-repeat center;*/
+  background-image: linear-gradient(
+    to bottom,
+    rgba(64, 61, 57, 0.52),
+    rgba(255, 255, 255, 0.8)
+  );
+}
+
+.simba-logo {
+  height: 100px;
+  margin-top: 15px;
+  margin-left: 200px;
+  margin-bottom: 15px;
+}
+.simba-title .title-slogan {
+  margin-left: 140px;
+}
+.simba-title .title-name {
+  font-weight: bold;
+  font-size: 24px;
+  margin-left: 200px;
+  font-family: "Texturina", serif;
+}
+.input::placeholder {
+  color: #6d6875;
+}
+
+.login-snip {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  padding: 30px 70px 50px 70px;
+}
+
+.login-snip .login,
+.login-snip .sign-up-form {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: rotateY(180deg);
+  backface-visibility: hidden;
+  transition: all 0.4s linear;
+}
+
+.login-snip .sign-in,
+.login-snip .sign-up,
+.login-space .group .check {
+  display: none;
+}
+
+.login-snip .tab,
+.login-space .group .label,
+.login-space .group .button {
+  text-transform: uppercase;
+}
+
+.login-snip .tab {
+  font-size: 18px;
+  margin-right: 15px;
+  padding-bottom: 5px;
+  margin: 0 15px 10px 0;
+  display: inline-block;
+  border-bottom: 2px solid transparent;
+  font-family: "Texturina", serif;
+  font-weight: 800;
+}
+
+.login-snip .sign-in:checked + .tab,
+.login-snip .sign-up:checked + .tab {
+  color: #fff;
+  border-color: #b52b65;
+  font-family: "Texturina", serif;
+  font-weight: 800;
+}
+
+.login-space {
+  min-height: 345px;
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
+}
+
+.login-space .group {
+  margin-bottom: 15px;
+}
+
+.login-space .group .label,
+.login-space .group .input,
+.login-space .group .button {
+  width: 100%;
+  color: #000;
+  display: block;
+}
+
+.login-space .group .input,
+.login-space .group .button {
+  border: none;
+  padding: 12px 20px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.login-space .group input[data-type="password"] {
+  text-security: circle;
+  -webkit-text-security: circle;
+}
+
+.login-space .group .label {
+  color: #495057;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.login-space .group .button {
+  background: #28a745;
+  color: #fff;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.login-space .group label .icon {
+  width: 15px;
+  height: 15px;
+  border-radius: 2px;
+  position: relative;
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.login-space .group label .icon:before,
+.login-space .group label .icon:after {
+  content: "";
+  width: 10px;
+  height: 2px;
+  background: #fff;
+  position: absolute;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+.login-space .group label .icon:before {
+  left: 3px;
+  width: 5px;
+  bottom: 6px;
+  transform: scale(0) rotate(0);
+}
+
+.login-space .group label .icon:after {
+  top: 6px;
+  right: 0;
+  transform: scale(0) rotate(0);
+}
+
+.login-space .group .check:checked + label {
+  color: #fff;
+}
+
+.login-space .group .check:checked + label .icon {
+  background: #264653;
+}
+
+.login-space .group .check:checked + label .icon:before {
+  transform: scale(1) rotate(45deg);
+}
+
+.login-space .group .check:checked + label .icon:after {
+  transform: scale(1) rotate(-45deg);
+}
+
+.login-snip .sign-in:checked + .tab + .sign-up + .tab + .login-space .login {
+  transform: rotate(0);
+}
+
+.login-snip .sign-up:checked + .tab + .login-space .sign-up-form {
+  transform: rotate(0);
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.clearfix:after,
+.clearfix:before {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.hr {
+  height: 2px;
+  margin: 25px 0 25px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.foot {
+  text-align: center;
+}
+
+.login-card {
+  width: 500px;
+  left: 65px;
+  background-color: transparent;
+  border: none !important;
+  margin-top: 3%;
+}
+.radio-btn {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #495057;
+}
+.teacher-img {
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.student-img {
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* registartion form*/
+.fileContainer {
+  padding: 0px 0 !important;
+  background: transparent !important;
+  flex-direction: row !important;
+}
+.fileContainer p {
+  display: none !important;
+}
+.fileContainer .uploadIcon {
+  display: none;
+}
+.fileContainer .chooseFileButton {
+  width: 60% !important;
+}
+.fileContainer .deleteImage{
+  background: #FFCE54 !important;
+  width: 25px !important;
+  height: 25px !important;
+  font-size: 16px !important;
+}

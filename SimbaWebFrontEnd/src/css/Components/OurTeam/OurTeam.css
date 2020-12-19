@@ -1,0 +1,17 @@
+.background-info {
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat
+}
+.text-info{
+    color:#666 !important;
+}
+.profile-img {
+    height: 218px;
+    width: auto;
+}
+.our-team-title{
+font-weight: bold;
+font-size: 24px;
+font-family: "Texturina", serif;
+}

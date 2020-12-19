@@ -1,0 +1,51 @@
+.grade-title{
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 24px;
+    color: #fff;
+    padding: 16px 0px 7px 100px !important
+}
+ .Assignement-title{
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Texturina', serif;
+    margin-left: 80px;
+ }
+ .grade{
+    width: 400px !important;
+    left: 65px;
+    border: none !important;
+    margin-top: 4%;
+ }
+ .grade-1{
+    background-color: #A0D368 !important;
+ }
+ .grade-2{
+    background-color: #4FC0E9 !important;
+ }
+ .grade-3{
+    background-color: #E56B6F !important;
+ }
+ .grade-4{
+    background-color: #FFCE54 !important;
+ }
+ .gradeAs-1{
+    background-color: #f79d65 !important;
+ }
+ .gradeAs-2{
+    background-color: #cdb4db !important;
+ }
+ .gradeAs-3{
+    background-color: #ffafcc !important;
+ }
+ .gradeAs-4{
+    background-color: #b7e4c7 !important;
+ }
+ .grade-img{
+     height:40px;
+ }
+ .isDisabled {
+   color: currentColor;
+   cursor: not-allowed;
+   text-decoration: none;
+ }

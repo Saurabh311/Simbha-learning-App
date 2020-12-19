@@ -1,0 +1,244 @@
+/* .quiz-card{
+    border: 2px solid #dbd3d8 !important;
+    width: 1200px;
+}  */
+
+.start-page{
+    background-image: url('..//..//../images//login-bg-3.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+}
+.audio-display{
+	display: none;
+}
+.play-div{
+	position: absolute;
+	top: 40%;
+	left: 75%;
+	transform: translate(-50%, -50%);
+}
+.play-txt{
+margin-right: 2%;
+}
+.play-img{
+	height:200px;
+}
+
+/* quiz-topic-page */
+.quiz-topic-page{
+	background-image: url('..//..//../images//topic.jpg');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+.btn-topic{
+	background-color: transparent;
+    border:2px solid #fff;
+    display:inline-block;
+    padding:18px 8px;
+    color:#fff;
+    font-weight:600;
+    font-size:20px;
+    border-radius:4px;
+    transition:all .3s;
+	width:210px;
+	margin-bottom: 60px;
+}
+.btn-topic:hover{
+	border:1px solid transparent;
+    background:#fff;
+    color:#666;
+}
+.topic-frm{
+	margin-top: 10%;
+}
+
+/* subject wise background change */
+.GeneralKnowledge{
+	background-image: url('..//..//../images//gk1.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+.science{
+	background-image: url('..//..//../images//science.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+.mathematics{
+	background-image: url('..//..//../images//maths.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+.logical{
+	background-image: url('..//..//../images//logical.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+.sport{
+	background-image: url('..//..//../images//sport.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+.literature{
+	background-image: url('..//..//../images//literature.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+
+/* display quiz page */
+.center-data {
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    margin-top: -50px;
+    margin-left: -100px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .score-section{
+	position: fixed;
+    top: 30%;
+    left: 70%;
+    margin-top: -50px;
+    margin-left: -100px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+  .btn-option{
+	background-color: transparent;
+    border:2px solid #000;
+    display:inline-block;
+    padding:8px 8px;
+    color:#000;
+    font-weight:600;
+    font-size:20px;
+    border-radius:4px;
+    transition:all .3s;
+	width:auto;
+	margin-bottom: 60px;
+	margin-left:40px;
+	margin-right:20px;
+}
+.btn-option:hover{
+	border:1px solid #666;
+    background:#fff;
+    color:#666;
+}
+.ques-div{
+	background-image: linear-gradient(
+    to bottom,
+    rgba(236, 226, 208, 0.5),
+    rgba(255, 255, 255, 0.8)
+  ) !important;
+}
+.question-section{
+	margin-left: 2%;
+	margin-top: 3%;
+}
+
+.score-page{
+	background-image: url('..//..//../images//score-page-bg.gif');
+    position:relative;
+	width:100%;
+	height: 100vh;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+	background-position-x: 20%;
+}
+
+
+/* .btn-play{
+	background-color: #50514f;
+    display:inline-block;
+    padding:0px 8px;
+    color:#fff;
+    font-weight:600;
+	font-size:30px;
+	font-style: italic;
+    border-radius:4px;
+    transition:all .3s;
+	margin-bottom: 60px;
+	margin-left:40px;
+	margin-right:20px;
+} */
+
+.btn-play:hover{
+    background:#ffb600;
+    color:#666;
+}
+.btn-close{
+  background-color: #4FC0E9; 
+  border:1px solid #e5e5e5;
+  display:inline-block;
+  padding:10px 20px;
+  color:#fff;
+  font-weight:600;
+  font-size:14px;
+  border-radius:4px;
+  transition:all .3s;
+}
+.btn-close:hover{
+	border:1px solid transparent;
+	background:#B52B65;
+	color:#fff;
+}

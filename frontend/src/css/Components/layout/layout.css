@@ -1,0 +1,137 @@
+.bg-dark{
+    background-color: transparent !important;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #848484;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #B52B65;
+}
+.nav-link:focus{
+    color: #fff !important;
+    background-color:#006d77 ;
+}
+.nav-dropdown{
+    color:  #848484;
+}
+.active-link{
+    color: #fff !important;
+    background-color:#006d77 ;
+}
+.logo-img{
+    height:50px;
+}
+.btn-outline-info{
+    color: #F9844A;
+    border-color: #F9844A;
+}
+.btn-outline-info:hover{
+    background-color: #F9844A;
+    border-color: #F9844A;
+}
+.btn-log{
+    background-color: #F9844A; 
+    border:1px solid #F9844A;
+    display:inline-block;
+    padding:6px 15px;
+    color:#fff;
+    font-weight:600;
+    font-size:14px;
+    border-radius:0px;
+    transition:all .3s;
+  }
+  .btn-log:hover{
+    border:1px solid transparent;
+    background:#B52B65;
+    color:#fff;
+  }
+.line{
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 70px;
+
+    /* Harvest pink */
+    border: 1px solid #006d77;
+}
+.navbar-brand{
+    margin-left: 40px;
+}
+.nav-simba-title{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.nav-simba-title .title-slogan{
+    color:#6d6875;
+}
+.nav-simba-title .title-name{
+   font-weight: bold;
+   font-size: 24px;
+   font-family: 'Texturina', serif;
+   color:#000;
+  }
+.navbar-nav{
+    flex: none;
+    order: 0;
+    margin-left: 20%;
+}
+.student-nav{
+    margin-left: 40% !important;
+}
+.navbar-toggler {
+    background-color: #006d77 !important;
+    border: 1px solid #006d77 !important;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .8rem !important;
+    padding-left: .8rem !important;
+}
+.profile-img{
+    height: 40px;
+    width: 40px;
+}
+.navbar-login
+{
+    width: 270px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.profile-dropdown{
+    margin-left: -80%;
+    border: none;
+    background-color: #dbe7e4;
+}
+.user-profile-data{
+    line-height: 0.5285em;
+}
+
+@media (min-width:801px) {
+    .navbar-nav{
+        margin-left: 20%;
+    }
+    .student-nav{
+        margin-left: 40% !important;
+    }
+}
+@media (min-width:1300px) {
+    .navbar-nav{
+        margin-left: 20%;
+    }
+    .student-nav{
+        margin-left: 40% !important;
+    }
+}
+@media (min-width: 1200px){
+    .container{
+        max-width: 1334px;
+    }
+    .line{
+        width: 1990px;
+    }
+}
+@media (max-width:992px)  { 
+    .nav-simba-title{
+        display: none;
+    }
+}  

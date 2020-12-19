@@ -1,0 +1,10 @@
+.video-fram {
+  margin: 0 auto;
+}
+.preview-title {
+    margin-left: 38%;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "Texturina", serif;
+  color: #666;
+}

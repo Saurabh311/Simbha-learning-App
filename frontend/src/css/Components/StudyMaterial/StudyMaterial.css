@@ -1,0 +1,48 @@
+/* single study material */
+.single-study-material{
+    background-image: url('..//..//../images//ebook.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    height:900px;
+    background-size: 300px;
+    background-position-x: 94%;
+}
+.studymaterial-frm{
+    background-image: url('..//..//../images//StudyMaterialForm.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    height:900px;
+    background-size: 300px;
+    background-position-x: 94%;
+}
+.single-study-material-tab{
+    width:70%;
+    background-color: #1c7293;
+    color: #fff;
+    border: none;
+    text-align: start;
+}
+.single-study-material-tab:hover{
+    color: #fff;
+} 
+.study-page-span{
+    font-size: 14px;
+    font-weight: 800;
+    color: #1c7293;
+}
+/* Study material by grad */
+.center-subject-name {
+    margin-left: 0%;
+    color: #5c677d;
+    font-size: 18px;
+    font-weight: 600;   
+  }
+  .student-assignement-list-table{
+      margin-left: -1%;
+  }
+  .student-assignement-tbl-row{
+      background-color: #0582ca;
+      color: #fff;
+  }

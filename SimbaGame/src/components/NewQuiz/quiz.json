@@ -1,0 +1,1394 @@
+[
+    
+   
+    {
+        "subject": "GeneralKnowledge",
+       "questionText": "Who is the head of WHO?",
+       "answerOptions": [
+          {
+             "answerText": "Jeff Bezos",
+             "isCorrect": false
+          },
+          {
+             "answerText": "Tedros Adhanom",
+             "isCorrect": true
+          },
+          {
+             "answerText": "Bill Gates",
+             "isCorrect": false
+          },
+          {
+             "answerText": "Tony Stark",
+             "isCorrect": false
+          }
+       ]
+    },
+    {
+      "subject": "GeneralKnowledge",
+     "questionText": "What is the capital of France?",
+     "answerOptions": [
+        {
+           "answerText": "New York",
+           "isCorrect": false
+        },
+        {
+           "answerText": "London",
+           "isCorrect": false
+        },
+        {
+           "answerText": "Paris",
+           "isCorrect": true
+        },
+        {
+           "answerText": "Dublin",
+           "isCorrect": false
+        }
+     ]
+  },
+  {
+   "subject": "GeneralKnowledge",
+  "questionText": "What is the capital of India?",
+  "answerOptions": [
+     {
+        "answerText": "Mumbai",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Kolkata",
+        "isCorrect": false
+     },
+     {
+        "answerText": "New Delhi",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Kerala",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "GeneralKnowledge",
+  "questionText": "What is the capital of USA?",
+  "answerOptions": [
+     {
+        "answerText": "Chicago",
+        "isCorrect": false
+     },
+     {
+        "answerText": "New York",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Washington DC",
+        "isCorrect": true
+     },
+     {
+        "answerText": "San Fransisco",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "GeneralKnowledge",
+  "questionText": "What is the capital of Sweden?",
+  "answerOptions": [
+     {
+        "answerText": "Malmo",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Gothenberg",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Stockholm",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Vastraland",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "GeneralKnowledge",
+  "questionText": "What is the capital of Australia?",
+  "answerOptions": [
+     {
+        "answerText": "Brisbane",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Canberra",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Melbourne",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Sydney",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "GeneralKnowledge",
+  "questionText": "What is the capital of Turkey?",
+  "answerOptions": [
+     {
+        "answerText": "Jerusalem",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Romania",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Ankara",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Syria",
+        "isCorrect": false
+     }
+  ]
+},
+
+{
+   "subject": "GeneralKnowledge",
+  "questionText": "What is the capital of Spain?",
+  "answerOptions": [
+     {
+        "answerText": "Denmark",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Norway",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Madrid",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Barcelona",
+        "isCorrect": false
+     }
+  ]
+},
+
+    {
+        "subject": "GeneralKnowledge",
+       "questionText": "The iPhone was created by which company?",
+       "answerOptions": [
+          {
+             "answerText": "Apple",
+             "isCorrect": true
+          },
+          {
+             "answerText": "Intel",
+             "isCorrect": false
+          },
+          {
+             "answerText": "Amazon",
+             "isCorrect": false
+          },
+          {
+             "answerText": "Microsoft",
+             "isCorrect": false
+          }
+       ]
+    },
+    {
+        "subject": "GeneralKnowledge",
+       "questionText": "How many Harry Potter books are there?",
+       "answerOptions": [
+          {
+             "answerText": "1",
+             "isCorrect": false
+          },
+          {
+             "answerText": "4",
+             "isCorrect": false
+          },
+          {
+             "answerText": "6",
+             "isCorrect": false
+          },
+          {
+             "answerText": "7",
+             "isCorrect": true
+          }
+       ]
+    },
+    {
+        "subject": "logical",
+       "questionText": "You are in a running race, and you overtake third place. What place are you in?",
+       "answerOptions": [
+          {
+             "answerText": "first",
+             "isCorrect": false
+          },
+          {
+             "answerText": "second",
+             "isCorrect": false
+          },
+          {
+             "answerText": "third",
+             "isCorrect": true
+          },
+          {
+             "answerText": "fourth",
+             "isCorrect": false
+          }
+       ]
+    },
+    {
+        "subject": "logical",
+       "questionText": "Take three pears from ten. How many do you have?",
+       "answerOptions": [
+          {
+             "answerText": "zero",
+             "isCorrect": false
+          },
+          {
+             "answerText": "one",
+             "isCorrect": false
+          },
+          {
+             "answerText": "two",
+             "isCorrect": false
+          },
+          {
+             "answerText": "three",
+             "isCorrect": true
+          }
+       ]
+    },
+    {
+        "subject": "logical",
+       "questionText": "Some months have thirty days, some have thirty-one. How many have twenty-eight?",
+       "answerOptions": [
+          {
+             "answerText": "ten",
+             "isCorrect": false
+          },
+          {
+             "answerText": "eleven",
+             "isCorrect": false
+          },
+          {
+             "answerText": "two",
+             "isCorrect": false
+          },
+          {
+             "answerText": "twelve",
+             "isCorrect": true
+          }
+       ]
+    },
+    {
+        "subject": "logical",
+       "questionText": "A farmer has ten cows. All but six of them die. How many are left?",
+       "answerOptions": [
+          {
+             "answerText": "three",
+             "isCorrect": false
+          },
+          {
+             "answerText": "four",
+             "isCorrect": false
+          },
+          {
+             "answerText": "seven",
+             "isCorrect": false
+          },
+          {
+             "answerText": "six",
+             "isCorrect": true
+          }
+       ]
+    },
+    {
+      "subject": "logical",
+     "questionText": "which animal can digest nail?",
+     "answerOptions": [
+        {
+           "answerText": "Lion",
+           "isCorrect": false
+        },
+        {
+           "answerText": "Tiger",
+           "isCorrect": false
+        },
+        {
+           "answerText": "Giraffe",
+           "isCorrect": false
+        },
+        {
+           "answerText": "Crocodile",
+           "isCorrect": true
+        }
+     ]
+  },
+  {
+   "subject": "logical",
+  "questionText": "which mountain changes its colour everyday?",
+  "answerOptions": [
+     {
+        "answerText": "Ayers rock",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Mt Everest",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Karokoram",
+        "isCorrect": false
+     },
+     {
+        "answerText": "rock",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": "Add 2 to 3 and subtract 0,how many are left?",
+  "answerOptions": [
+     {
+        "answerText": "three",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Five",
+        "isCorrect": true
+     },
+     {
+        "answerText": "seven",
+        "isCorrect": false
+     },
+     {
+        "answerText": "six",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": "How many zeroes should be added to make it to 1lakh?",
+  "answerOptions": [
+     {
+        "answerText": "three",
+        "isCorrect": false
+     },
+     {
+        "answerText": "four",
+        "isCorrect": false
+     },
+     {
+        "answerText": "seven",
+        "isCorrect": false
+     },
+     {
+        "answerText": "nine",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": "A zero before 1 and 1 more after 1 gives?",
+  "answerOptions": [
+     {
+        "answerText": "three",
+        "isCorrect": false
+     },
+     {
+        "answerText": "four",
+        "isCorrect": false
+     },
+     {
+        "answerText": "ten",
+        "isCorrect": true
+     },
+     {
+        "answerText": "two",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": " A zero subtracted from 1000 is?",
+  "answerOptions": [
+     {
+        "answerText": "1000",
+        "isCorrect": true
+     },
+     {
+        "answerText": "10",
+        "isCorrect": false
+     },
+     {
+        "answerText": "0",
+        "isCorrect": false
+     },
+     {
+        "answerText": "100",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": "A basket containing 10 roses but 2 are taken out and kept back,How many are left in a basket?",
+  "answerOptions": [
+     {
+        "answerText": "three",
+        "isCorrect": false
+     },
+     {
+        "answerText": "ten",
+        "isCorrect": true
+     },
+     {
+        "answerText": "seven",
+        "isCorrect": false
+     },
+     {
+        "answerText": "six",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": "(2+3)*3?",
+  "answerOptions": [
+     {
+        "answerText": "15",
+        "isCorrect": true
+     },
+     {
+        "answerText": "21",
+        "isCorrect": false
+     },
+     {
+        "answerText": "18",
+        "isCorrect": false
+     },
+     {
+        "answerText": "11",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "logical",
+  "questionText": "(24%3)*56?",
+  "answerOptions": [
+     {
+        "answerText": "34",
+        "isCorrect": false
+     },
+     {
+        "answerText": "0",
+        "isCorrect":true
+     },
+     {
+        "answerText": "12",
+        "isCorrect": false
+     },
+     {
+        "answerText": "78",
+        "isCorrect": false
+     }
+  ]
+},
+
+    
+    {
+        "subject": "science",
+       "questionText": "All animals need food, air, and ____ to survive.",
+       "answerOptions": [
+          {
+             "answerText": "House",
+             "isCorrect": false
+          },
+          {
+             "answerText": "water",
+             "isCorrect": true
+          },
+          {
+             "answerText": "Chocolate",
+             "isCorrect": false
+          },
+          {
+             "answerText": "fruit",
+             "isCorrect": false
+          }
+       ]
+    },
+    {
+        "subject": "science",
+       "questionText": "What is Earth’s only natural satellite?",
+       "answerOptions": [
+          {
+             "answerText": "sun",
+             "isCorrect": true
+          },
+          {
+             "answerText": "moon",
+             "isCorrect": false
+          },
+          {
+             "answerText": "mars",
+             "isCorrect": false
+          },
+          {
+             "answerText": "venus",
+             "isCorrect": false
+          }
+       ]
+    },
+    {
+        "subject": "science",
+       "questionText": "Who invented the first functional telephone?",
+       "answerOptions": [
+          {
+             "answerText": " Albert Einstein",
+             "isCorrect": true
+          },
+          {
+             "answerText": "Nikola Tesla",
+             "isCorrect": false
+          },
+          {
+             "answerText": "Thomas Alva Edison",
+             "isCorrect": false
+          },
+          {
+             "answerText": "Alexander Graham Bell",
+             "isCorrect": true
+          }
+       ]
+    },
+    {
+        "subject": "science",
+       "questionText": "What is the young one of a cow called?",
+       "answerOptions": [
+          {
+             "answerText": "Puppy",
+             "isCorrect": false
+          },
+          {
+             "answerText": "kitten",
+             "isCorrect": false
+          },
+          {
+             "answerText": "calf",
+             "isCorrect": true
+          },
+          {
+             "answerText": "baby",
+             "isCorrect": false
+          }
+       ]
+    },
+    {
+      "subject": "science",
+     "questionText": "Who invented the first functional telephone?",
+     "answerOptions": [
+        {
+           "answerText": " Albert Einstein",
+           "isCorrect": true
+        },
+        {
+           "answerText": "Nikola Tesla",
+           "isCorrect": false
+        },
+        {
+           "answerText": "Thomas Alva Edison",
+           "isCorrect": false
+        },
+        {
+           "answerText": "Alexander Graham Bell",
+           "isCorrect": true
+        }
+     ]
+  },
+  {
+   "subject": "science",
+  "questionText": "Who invented the electricity?",
+  "answerOptions": [
+     {
+        "answerText": " Thomas Edison",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Ben Franklin",
+        "isCorrect":true
+     },
+     {
+        "answerText": "Johansson",
+        "isCorrect": false
+     },
+     {
+        "answerText": "David Almer",
+        "isCorrect": false
+        }
+     ]
+},
+{
+   "subject": "science",
+  "questionText": "Who invented the internet ?",
+  "answerOptions": [
+     {
+        "answerText": "Robert Kahn and Vint Cerf ",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Willis Carrier",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Albert Einstein",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Ladislo Biro",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who invented the television?",
+  "answerOptions": [
+     {
+        "answerText": " Stephen hook",
+        "isCorrect": false
+     },
+     {
+        "answerText": "David Elmer",
+        "isCorrect": false
+     },
+     {
+        "answerText": "J.L Baird",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Kennedy",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who is considered as the inventor of video games ?",
+  "answerOptions": [
+     {
+        "answerText": "Ralph Baer ",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Nikolas Bell",
+        "isCorrect": false
+     },
+     {
+        "answerText": " K.Tiana ",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Gustafsson",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "When was the first Fire-engine created?",
+  "answerOptions": [
+     {
+        "answerText": " 1518",
+        "isCorrect": true
+     },
+     {
+        "answerText": "1564",
+        "isCorrect": false
+     },
+     {
+        "answerText": "1612",
+        "isCorrect": false
+     },
+     {
+        "answerText": "1589",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who is credited for the invention of chocolate bar?",
+  "answerOptions": [
+     {
+        "answerText": " Phillip Haller",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Francois-Louis Cailler",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Johnsson and David.L",
+        "isCorrect": false
+     },
+     {
+        "answerText": "William Thatcher",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who is the first inventor of post card?",
+  "answerOptions": [
+     {
+        "answerText": "John P Charlton",
+        "isCorrect": true
+     },
+     {
+        "answerText": "James Chalmer",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Frank Wittle",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Louis John",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who invented the Electric washing machine?",
+  "answerOptions": [
+     {
+        "answerText": " William Charter",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Alva Fisher",
+        "isCorrect": true
+     },
+     {
+        "answerText": "David Elmer",
+        "isCorrect": false
+     },
+     {
+        "answerText": "James L",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who invented the machine gun?",
+  "answerOptions": [
+     {
+        "answerText": " B.G Alexander ",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Richard Jordan Gatling",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Peter Davidsson",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Mithra Gustafsson",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "science",
+  "questionText": "Who invented the Electric washing machine?",
+  "answerOptions": [
+     {
+        "answerText": " William Charter",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Alva Fisher",
+        "isCorrect": true
+     },
+     {
+        "answerText": "David Elmer",
+        "isCorrect": false
+     },
+     {
+        "answerText": "James L",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "mathematics",
+  "questionText": "You are in a running race, and you overtake third place. What place are you in?",
+  "answerOptions": [
+     {
+        "answerText": " first",
+        "isCorrect": false
+     },
+     {
+        "answerText": "second",
+        "isCorrect": false
+     },
+     {
+        "answerText": "third",
+        "isCorrect": true
+     },
+     {
+        "answerText": "fourth",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "A fraction which bears the same ratio to 1/27 as 3/11 bear to 5/9 is equal to ……….. .",
+  "questionText": "24%5 = ?",
+  "answerOptions": [
+     {
+        "answerText": "1/55",
+        "isCorrect": true
+     },
+     {
+        "answerText": "55",
+        "isCorrect": false
+     },
+     {
+        "answerText": "3/11",
+        "isCorrect": false
+     },
+     {
+        "answerText": "1/11",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "mathematics",
+  "questionText": " A clock strikes once at 1 o’clock, twice at 2 o’clock, thrice at 3 o’clock and so on. How many times will it strike in 24 hours?",
+  "answerOptions": [
+     {
+        "answerText": " 78",
+        "isCorrect": false
+     },
+     {
+        "answerText": "136",
+        "isCorrect": false
+     },
+     {
+        "answerText": "156",
+        "isCorrect": true
+     },
+     {
+        "answerText": "196",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "mathematics",
+  "questionText": "The number of 3-digit numbers divisible by 6, is ………….. .",
+  "answerOptions": [
+     {
+        "answerText": " 149",
+        "isCorrect": false
+     },
+     {
+        "answerText": "166",
+        "isCorrect": true
+     },
+     {
+        "answerText": "150",
+        "isCorrect": false
+     },
+     {
+        "answerText": "151",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "mathematics",
+  "questionText": "Which of the following numbers gives 240 when added to its own square?",
+  "answerOptions": [
+     {
+        "answerText": " 15",
+        "isCorrect": false
+     },
+     {
+        "answerText": "16",
+        "isCorrect": false
+     },
+     {
+        "answerText": "18",
+        "isCorrect": false
+     },
+     {
+        "answerText": "20",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "mathematics",
+  "questionText": "The average of first 50 natural numbers is …………. ",
+  "answerOptions": [
+     {
+        "answerText": " 25.30",
+        "isCorrect": false
+     },
+     {
+        "answerText": "25.5 ",
+        "isCorrect": true
+     },
+     {
+        "answerText": "25.00",
+        "isCorrect": true
+     },
+     {
+        "answerText": "12.25",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "mathematics",
+  "questionText": "Evaluation of 83 × 82 × 8-5 is …………. .",
+  "answerOptions": [
+     {
+        "answerText": "1",
+        "isCorrect": true
+     },
+     {
+        "answerText": "0",
+        "isCorrect": false
+     },
+     {
+        "answerText": "8",
+        "isCorrect": false
+     },
+     {
+        "answerText": "none",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "who is the captain of Indian cricket team?",
+  "answerOptions": [
+     {
+        "answerText": "Virat Kohli",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Rohith Sharma",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Hardik Pandey",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Ravindra Jadeja",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "who won football world cup in 2018?",
+  "answerOptions": [
+     {
+        "answerText": "Germany",
+        "isCorrect": false
+     },
+     {
+        "answerText": "France",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Argentina",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Sweden",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "who won hockey championship 2020?",
+  "answerOptions": [
+     {
+        "answerText": "Tampa Bay Lightning",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Dallas Stars",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Tampa Bay Rays",
+        "isCorrect": false
+     },
+     {
+        "answerText": "New york Islanders",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "how many team members in basketball?",
+  "answerOptions": [
+     {
+        "answerText": "4",
+        "isCorrect": false
+     },
+     {
+        "answerText": "5",
+        "isCorrect": true
+     },
+     {
+        "answerText": "6",
+        "isCorrect": false
+     },
+     {
+        "answerText": "7",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "who is the captain of football team in india?",
+  "answerOptions": [
+     {
+        "answerText": "Gurpreet Singh",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Sunil Chhetri",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Karnam Malleswari",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Sonam Bhattacharya",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": " how many members in ice hockey team?",
+  "answerOptions": [
+     {
+        "answerText": "8",
+        "isCorrect": false
+     },
+     {
+        "answerText": "7",
+        "isCorrect": false
+     },
+     {
+        "answerText": "6",
+        "isCorrect": true
+     },
+     {
+        "answerText": "9",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": " in which country 2019 cricket world cup held?",
+  "answerOptions": [
+     {
+        "answerText": "zimbabwe",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Australia",
+        "isCorrect": false
+     },
+     {
+        "answerText": "India",
+        "isCorrect": false
+     },
+     {
+        "answerText": "England Wales",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "how many wimbledons has federer won?",
+  "answerOptions": [
+     {
+        "answerText": "6",
+        "isCorrect": false
+     },
+     {
+        "answerText": "5",
+        "isCorrect": false
+     },
+     {
+        "answerText": "7",
+        "isCorrect": false
+     },
+     {
+        "answerText": "8",
+        "isCorrect": true
+     }
+  ]
+},
+{
+   "subject": "sport",
+  "questionText": "where is the world's largest football stadium ?",
+  "answerOptions": [
+     {
+        "answerText": "North Korea",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Austria",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Belgium",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Germany",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": " Who is the author of The Origin Of Species?",
+  "answerOptions": [
+     {
+        "answerText": "Charles Dickson",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Darwin",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Martin Luther",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Paul Johnsson",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": "  The abbreviated form of which book is NEB??",
+  "answerOptions": [
+     {
+        "answerText": "New England book",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Non English Beginners",
+        "isCorrect": false
+     },
+     {
+        "answerText": "New English Bible",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Nun of England bibliography",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": " Shakespeare’s four greatest tragedies are Macbeth, Othello, Hamlet and __________??",
+  "answerOptions": [
+     {
+        "answerText": "Robin hood",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Pied piper",
+        "isCorrect": false
+     },
+     {
+        "answerText": "King Lear",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Harry potter",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": " Mention the exact number of sonnets written by William Shakespeare??",
+  "answerOptions": [
+     {
+        "answerText": "143",
+        "isCorrect": false
+     },
+     {
+        "answerText": "154",
+        "isCorrect": true
+     },
+     {
+        "answerText": "159",
+        "isCorrect": false
+     },
+     {
+        "answerText": "132",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": "Bird of Paradise” is a book written by a renowned psychiatrist. What is the name of him ?",
+  "answerOptions": [
+     {
+        "answerText": "R D Laing",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Sumitra Pai",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Robert Kaul",
+        "isCorrect": false
+     },
+     {
+        "answerText": "James Gustafsson",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject":"literature",
+  "questionText": " Who invented the character, Robinson Crusoe??",
+  "answerOptions": [
+     {
+        "answerText": "Robert P",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Dan Brown",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Daniel Defoe",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Donald L",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": "whi si the author of 2 states ?",
+  "answerOptions": [
+     {
+        "answerText": "Tahira Kashyap",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Chethan Bhagat",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Shakespeare",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Benzamir butto",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": " who is the author of wings of fire?",
+  "answerOptions": [
+     {
+        "answerText": "APJ Abdul Kalam",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Mahatma Gandhiji",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Indira Gandhi",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Chetan Bahgat",
+        "isCorrect": false
+     }
+  ]
+},
+{
+   "subject": "literature",
+  "questionText": "People of which religion consider ‘The Bhagavad Gita’ as their sacred text?",
+  "answerOptions": [
+     {
+        "answerText": "Jains",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Hinduism",
+        "isCorrect": true
+     },
+     {
+        "answerText": "Christianity",
+        "isCorrect": false
+     },
+     {
+        "answerText": "Jews",
+        "isCorrect": false
+     }
+  ]
+}
+ ]

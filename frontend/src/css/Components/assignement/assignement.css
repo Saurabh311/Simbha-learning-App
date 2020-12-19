@@ -1,0 +1,214 @@
+.assignement-frm{
+    background-image: url('..//..//../images//assignement_frm_bg1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    height:900px;
+    background-size: 300px;
+    background-position-x: 94%;
+}
+.center-data {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+    color: #B52B65;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .iframe-border{
+    border: 2px solid #747274;
+  }
+
+/* assignement view page css */
+
+.btn-assignement-view{
+    font-size: 16px;
+    font-weight: bold;
+    color: #B52B65;
+}
+.btn-assignement-view:hover{
+    color:#00509d;
+}
+.assignement-list-table{
+    margin: auto !important;
+}
+.teacher-assignement-tbl-row{
+    background-color: #22577a;
+    color: #fff;
+}
+.assignement-tbl-tbody:hover{
+    background-color: #eaeaea;
+}
+
+
+/* single assignement post page css */
+
+.assignment-tab #tabs{
+    background: #007b5e;
+    color: #eee;
+}
+.assignment-tab #tabs h6.section-title{
+    color: #eee;
+}
+.assignment-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #B52B65;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid !important;
+    font-size: 16px;
+    font-weight: bold;
+}
+.assignment-tab .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #B52B65;
+    font-size: 16px;
+    font-weight: 600;
+}
+.assignment-tab .nav-link:hover {
+    border: none;
+}
+.assignment-tab thead{
+    background: #A0D368;
+    color: #fff;
+    text-align: start;
+}
+.assignment-tab a{
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}
+
+/*Assignment by subject page */
+.btn-submit-assignment{
+    background-color: #A0D368; 
+    border:1px solid #e5e5e5;
+    display:inline-block;
+    padding:10px 20px;
+    color:#fff;
+    font-weight:600;
+    font-size:14px;
+    border-radius:4px;
+    transition:all .3s;
+}
+.btn-submit-assignment:hover{
+    border:1px solid transparent;
+    background:#FF8A3C;
+    color:#fff;
+}
+.btn-student-assignment-list{
+    background-color: #E56B6F; 
+    border:1px solid #e5e5e5;
+    display:inline-block;
+    padding:10px 20px;
+    color:#fff;
+    font-weight:600;
+    font-size:14px;
+    border-radius:4px;
+    transition:all .3s;
+}
+.btn-student-assignment-list:hover{
+    border:1px solid transparent;
+    background:#826AED;
+    color:#fff;
+}
+.question-tab{
+    width:70%;
+    background-color: #F0EFEB;
+    color: #424c55;
+    border: none;
+    text-align: start;
+}
+.question-tab:hover{
+    background-color: #cdeac0;
+    color: #424c55;
+}
+.assignment-view-img{
+    height:300px;
+    width:350px;
+}
+.assignment-view-frm{
+    height:350px;
+    width:100%;
+}
+.subject-view-img{
+    position:fixed;
+    right:0;
+    bottom:0;
+    margin:0;
+    padding:0;
+    width:350px;
+    height:280px;
+}
+
+/* assignment form */
+.assignement-student-frm{
+    background-image: url('..//..//../images//geo.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    height:900px;
+    background-size: 300px;
+    background-position-x: 94%;
+}
+
+/* Single assignment submitted */
+.single-assignment-submitted-frm{
+    background-image: url('..//..//../images//assignment.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    height:900px;
+    background-size: 300px;
+    background-position-x: 94%;
+}
+.single-assignment-submitted-tab{
+    width:70%;
+    background-color: #8f250c;
+    color: #fff;
+    border: none;
+    text-align: start;
+}
+.single-assignment-submitted-tab:hover{
+    color: #fff;
+}
+.btn-review{
+    background-color: transparent; 
+    border:none;
+    font-weight:600;
+    font-size:16px;
+    float: right;
+    color: #fff;
+}
+.review-page-user-details{
+    font-weight:600;
+    font-size:16px;
+}
+.review-frm-radio-btn{
+    font-size: 15px;
+}
+.btn-review-submit{
+    background-color: #B52B65; 
+    color: #fff;
+    border: none;
+}
+.btn-review-submit:hover{
+    border:1px solid transparent;
+    background:#A0D368;
+    color:#fff;
+}
+.review-page-span{
+    font-size: 14px;
+    font-weight: 800;
+    color: #8f250c;
+}
+.single-assignment-submit-ifram{
+    width:60%;
+}
+.Model-top-position{
+    margin-top: 5%;
+}
+
