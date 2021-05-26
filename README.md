@@ -1,6 +1,6 @@
 
 
-# Simba Learing App
+# Simba Learning App
 
 ## Abstract
 
